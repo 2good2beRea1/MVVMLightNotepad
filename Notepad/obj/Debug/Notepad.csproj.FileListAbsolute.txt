@@ -1,0 +1,171 @@
+c:\users\aziat\documents\visual studio 2015\Projects\Notepad\Notepad\bin\Debug\Notepad.exe.config
+c:\users\aziat\documents\visual studio 2015\Projects\Notepad\Notepad\bin\Debug\Notepad.pssym
+c:\users\aziat\documents\visual studio 2015\Projects\Notepad\Notepad\bin\Debug\Notepad.exe
+c:\users\aziat\documents\visual studio 2015\Projects\Notepad\Notepad\bin\Debug\Notepad.pdb
+c:\users\aziat\documents\visual studio 2015\Projects\Notepad\Notepad\bin\Debug\CommonServiceLocator.dll
+c:\users\aziat\documents\visual studio 2015\Projects\Notepad\Notepad\bin\Debug\EntityFramework.dll
+c:\users\aziat\documents\visual studio 2015\Projects\Notepad\Notepad\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\aziat\documents\visual studio 2015\Projects\Notepad\Notepad\bin\Debug\GalaSoft.MvvmLight.dll
+c:\users\aziat\documents\visual studio 2015\Projects\Notepad\Notepad\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+c:\users\aziat\documents\visual studio 2015\Projects\Notepad\Notepad\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+c:\users\aziat\documents\visual studio 2015\Projects\Notepad\Notepad\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+c:\users\aziat\documents\visual studio 2015\Projects\Notepad\Notepad\bin\Debug\PostSharp.dll
+c:\users\aziat\documents\visual studio 2015\Projects\Notepad\Notepad\bin\Debug\System.Data.SQLite.dll
+c:\users\aziat\documents\visual studio 2015\Projects\Notepad\Notepad\bin\Debug\System.Data.SQLite.EF6.dll
+c:\users\aziat\documents\visual studio 2015\Projects\Notepad\Notepad\bin\Debug\System.Data.SQLite.Linq.dll
+c:\users\aziat\documents\visual studio 2015\Projects\Notepad\Notepad\bin\Debug\System.Windows.Interactivity.dll
+c:\users\aziat\documents\visual studio 2015\Projects\Notepad\Notepad\bin\Debug\EntityFramework.xml
+c:\users\aziat\documents\visual studio 2015\Projects\Notepad\Notepad\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\aziat\documents\visual studio 2015\Projects\Notepad\Notepad\bin\Debug\GalaSoft.MvvmLight.pdb
+c:\users\aziat\documents\visual studio 2015\Projects\Notepad\Notepad\bin\Debug\GalaSoft.MvvmLight.xml
+c:\users\aziat\documents\visual studio 2015\Projects\Notepad\Notepad\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+c:\users\aziat\documents\visual studio 2015\Projects\Notepad\Notepad\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+c:\users\aziat\documents\visual studio 2015\Projects\Notepad\Notepad\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+c:\users\aziat\documents\visual studio 2015\Projects\Notepad\Notepad\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+c:\users\aziat\documents\visual studio 2015\Projects\Notepad\Notepad\bin\Debug\PostSharp.xml
+c:\users\aziat\documents\visual studio 2015\Projects\Notepad\Notepad\bin\Debug\System.Data.SQLite.xml
+c:\users\aziat\documents\visual studio 2015\Projects\Notepad\Notepad\obj\Debug\MainWindow.g.cs
+c:\users\aziat\documents\visual studio 2015\Projects\Notepad\Notepad\obj\Debug\App.g.cs
+c:\users\aziat\documents\visual studio 2015\Projects\Notepad\Notepad\obj\Debug\GeneratedInternalTypeHelper.g.cs
+c:\users\aziat\documents\visual studio 2015\Projects\Notepad\Notepad\obj\Debug\Notepad_MarkupCompile.cache
+c:\users\aziat\documents\visual studio 2015\Projects\Notepad\Notepad\obj\Debug\Notepad_MarkupCompile.lref
+c:\users\aziat\documents\visual studio 2015\Projects\Notepad\Notepad\obj\Debug\App.baml
+c:\users\aziat\documents\visual studio 2015\Projects\Notepad\Notepad\obj\Debug\MainWindow.baml
+c:\users\aziat\documents\visual studio 2015\Projects\Notepad\Notepad\obj\Debug\Notepad.g.resources
+c:\users\aziat\documents\visual studio 2015\Projects\Notepad\Notepad\obj\Debug\Notepad.Properties.Resources.resources
+c:\users\aziat\documents\visual studio 2015\Projects\Notepad\Notepad\obj\Debug\Notepad.csproj.GenerateResource.Cache
+c:\users\aziat\documents\visual studio 2015\Projects\Notepad\Notepad\obj\Debug\PostSharp\touch
+c:\users\aziat\documents\visual studio 2015\Projects\Notepad\Notepad\obj\Debug\PostSharp\dependencies.txt
+c:\users\aziat\documents\visual studio 2015\Projects\Notepad\Notepad\obj\Debug\Notepad.exe
+c:\users\aziat\documents\visual studio 2015\Projects\Notepad\Notepad\obj\Debug\Notepad.pdb
+c:\users\aziat\documents\visual studio 2015\Projects\Notepad\Notepad\obj\Debug\PostSharp\postsharp.app.config
+c:\users\aziat\documents\visual studio 2015\Projects\Notepad\Notepad\bin\Debug\PostSharp.Patterns.Aggregation.dll
+c:\users\aziat\documents\visual studio 2015\Projects\Notepad\Notepad\bin\Debug\PostSharp.Patterns.Common.dll
+c:\users\aziat\documents\visual studio 2015\Projects\Notepad\Notepad\bin\Debug\PostSharp.Patterns.Model.dll
+c:\users\aziat\documents\visual studio 2015\Projects\Notepad\Notepad\bin\Debug\SQLite.CodeFirst.dll
+c:\users\aziat\documents\visual studio 2015\Projects\Notepad\Notepad\bin\Debug\PostSharp.Patterns.Aggregation.xml
+c:\users\aziat\documents\visual studio 2015\Projects\Notepad\Notepad\bin\Debug\PostSharp.Patterns.Common.xml
+c:\users\aziat\documents\visual studio 2015\Projects\Notepad\Notepad\bin\Debug\PostSharp.Patterns.Model.xml
+c:\users\aziat\documents\visual studio 2015\Projects\Notepad\Notepad\bin\Debug\Newtonsoft.Json.dll
+c:\users\aziat\documents\visual studio 2015\Projects\Notepad\Notepad\bin\Debug\System.Net.Http.Formatting.dll
+c:\users\aziat\documents\visual studio 2015\Projects\Notepad\Notepad\bin\Debug\Newtonsoft.Json.xml
+c:\users\aziat\documents\visual studio 2015\Projects\Notepad\Notepad\bin\Debug\System.Net.Http.Formatting.xml
+c:\users\aziat\documents\visual studio 2015\Projects\Notepad\Notepad\bin\Debug\RestSharp.dll
+c:\users\aziat\documents\visual studio 2015\Projects\Notepad\Notepad\bin\Debug\RestSharp.xml
+C:\Users\aziat\documents\visual studio 2015\Projects\Notepad\Notepad\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\aziat\documents\visual studio 2015\Projects\Notepad\Notepad\obj\Debug\Notepad.csprojResolveAssemblyReference.cache
+F:\Projects\Notepad\Notepad\bin\Debug\Notepad.exe.config
+F:\Projects\Notepad\Notepad\obj\Debug\Notepad.exe
+F:\Projects\Notepad\Notepad\obj\Debug\Notepad.pdb
+F:\Projects\Notepad\Notepad\bin\Debug\CommonServiceLocator.dll
+F:\Projects\Notepad\Notepad\bin\Debug\EntityFramework.dll
+F:\Projects\Notepad\Notepad\bin\Debug\EntityFramework.SqlServer.dll
+F:\Projects\Notepad\Notepad\bin\Debug\GalaSoft.MvvmLight.dll
+F:\Projects\Notepad\Notepad\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+F:\Projects\Notepad\Notepad\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+F:\Projects\Notepad\Notepad\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+F:\Projects\Notepad\Notepad\bin\Debug\Newtonsoft.Json.dll
+F:\Projects\Notepad\Notepad\bin\Debug\PostSharp.dll
+F:\Projects\Notepad\Notepad\bin\Debug\PostSharp.Patterns.Aggregation.dll
+F:\Projects\Notepad\Notepad\bin\Debug\PostSharp.Patterns.Common.dll
+F:\Projects\Notepad\Notepad\bin\Debug\PostSharp.Patterns.Model.dll
+F:\Projects\Notepad\Notepad\bin\Debug\RestSharp.dll
+F:\Projects\Notepad\Notepad\bin\Debug\SQLite.CodeFirst.dll
+F:\Projects\Notepad\Notepad\bin\Debug\System.Data.SQLite.dll
+F:\Projects\Notepad\Notepad\bin\Debug\System.Data.SQLite.EF6.dll
+F:\Projects\Notepad\Notepad\bin\Debug\System.Data.SQLite.Linq.dll
+F:\Projects\Notepad\Notepad\bin\Debug\System.Data.SqlServerCe.dll
+F:\Projects\Notepad\Notepad\bin\Debug\System.Net.Http.Formatting.dll
+F:\Projects\Notepad\Notepad\bin\Debug\System.Windows.Interactivity.dll
+F:\Projects\Notepad\Notepad\bin\Debug\EntityFramework.xml
+F:\Projects\Notepad\Notepad\bin\Debug\EntityFramework.SqlServer.xml
+F:\Projects\Notepad\Notepad\bin\Debug\GalaSoft.MvvmLight.pdb
+F:\Projects\Notepad\Notepad\bin\Debug\GalaSoft.MvvmLight.xml
+F:\Projects\Notepad\Notepad\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+F:\Projects\Notepad\Notepad\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+F:\Projects\Notepad\Notepad\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+F:\Projects\Notepad\Notepad\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+F:\Projects\Notepad\Notepad\bin\Debug\Newtonsoft.Json.xml
+F:\Projects\Notepad\Notepad\bin\Debug\PostSharp.xml
+F:\Projects\Notepad\Notepad\bin\Debug\PostSharp.Patterns.Aggregation.xml
+F:\Projects\Notepad\Notepad\bin\Debug\PostSharp.Patterns.Common.xml
+F:\Projects\Notepad\Notepad\bin\Debug\PostSharp.Patterns.Model.xml
+F:\Projects\Notepad\Notepad\bin\Debug\RestSharp.xml
+F:\Projects\Notepad\Notepad\bin\Debug\System.Data.SQLite.xml
+F:\Projects\Notepad\Notepad\bin\Debug\System.Net.Http.Formatting.xml
+F:\Projects\Notepad\Notepad\obj\Debug\MainWindow.g.cs
+F:\Projects\Notepad\Notepad\obj\Debug\App.g.cs
+F:\Projects\Notepad\Notepad\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\Projects\Notepad\Notepad\obj\Debug\Notepad_MarkupCompile.cache
+F:\Projects\Notepad\Notepad\obj\Debug\Notepad_MarkupCompile.lref
+F:\Projects\Notepad\Notepad\obj\Debug\App.baml
+F:\Projects\Notepad\Notepad\obj\Debug\MainWindow.baml
+F:\Projects\Notepad\Notepad\obj\Debug\Notepad.g.resources
+F:\Projects\Notepad\Notepad\obj\Debug\Notepad.Properties.Resources.resources
+F:\Projects\Notepad\Notepad\obj\Debug\Notepad.csproj.GenerateResource.Cache
+F:\Projects\Notepad\Notepad\bin\Debug\Notepad.pssym
+F:\Projects\Notepad\Notepad\bin\Debug\Notepad.exe
+F:\Projects\Notepad\Notepad\bin\Debug\Notepad.pdb
+F:\Projects\Notepad\Notepad\obj\Debug\PostSharp\touch
+F:\Projects\Notepad\Notepad\obj\Debug\PostSharp\dependencies.txt
+F:\Projects\Notepad\Notepad\obj\Debug\PostSharp\postsharp.app.config
+F:\Projects\Notepad\Notepad\obj\Debug\Notepad.csprojResolveAssemblyReference.cache
+C:\Users\aziat\Desktop\Notepad\Notepad\bin\Debug\Notepad.exe.config
+C:\Users\aziat\Desktop\Notepad\Notepad\obj\Debug\Notepad.exe
+C:\Users\aziat\Desktop\Notepad\Notepad\obj\Debug\Notepad.pdb
+D:\Customs\Git\Notepad\Notepad\bin\Debug\Notepad.exe.config
+D:\Customs\Git\Notepad\Notepad\obj\Debug\Notepad.exe
+D:\Customs\Git\Notepad\Notepad\obj\Debug\Notepad.pdb
+D:\Customs\Git\Notepad\Notepad\bin\Debug\Notepad.pssym
+D:\Customs\Git\Notepad\Notepad\bin\Debug\Notepad.exe
+D:\Customs\Git\Notepad\Notepad\bin\Debug\Notepad.pdb
+D:\Customs\Git\Notepad\Notepad\bin\Debug\CommonServiceLocator.dll
+D:\Customs\Git\Notepad\Notepad\bin\Debug\EntityFramework.dll
+D:\Customs\Git\Notepad\Notepad\bin\Debug\EntityFramework.SqlServer.dll
+D:\Customs\Git\Notepad\Notepad\bin\Debug\GalaSoft.MvvmLight.dll
+D:\Customs\Git\Notepad\Notepad\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+D:\Customs\Git\Notepad\Notepad\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+D:\Customs\Git\Notepad\Notepad\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Customs\Git\Notepad\Notepad\bin\Debug\Newtonsoft.Json.dll
+D:\Customs\Git\Notepad\Notepad\bin\Debug\PostSharp.dll
+D:\Customs\Git\Notepad\Notepad\bin\Debug\PostSharp.Patterns.Aggregation.dll
+D:\Customs\Git\Notepad\Notepad\bin\Debug\PostSharp.Patterns.Common.dll
+D:\Customs\Git\Notepad\Notepad\bin\Debug\PostSharp.Patterns.Model.dll
+D:\Customs\Git\Notepad\Notepad\bin\Debug\RestSharp.dll
+D:\Customs\Git\Notepad\Notepad\bin\Debug\SQLite.CodeFirst.dll
+D:\Customs\Git\Notepad\Notepad\bin\Debug\System.Data.SQLite.dll
+D:\Customs\Git\Notepad\Notepad\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Customs\Git\Notepad\Notepad\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Customs\Git\Notepad\Notepad\bin\Debug\System.Data.SqlServerCe.dll
+D:\Customs\Git\Notepad\Notepad\bin\Debug\System.Net.Http.Formatting.dll
+D:\Customs\Git\Notepad\Notepad\bin\Debug\System.Windows.Interactivity.dll
+D:\Customs\Git\Notepad\Notepad\bin\Debug\EntityFramework.xml
+D:\Customs\Git\Notepad\Notepad\bin\Debug\EntityFramework.SqlServer.xml
+D:\Customs\Git\Notepad\Notepad\bin\Debug\GalaSoft.MvvmLight.pdb
+D:\Customs\Git\Notepad\Notepad\bin\Debug\GalaSoft.MvvmLight.xml
+D:\Customs\Git\Notepad\Notepad\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+D:\Customs\Git\Notepad\Notepad\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+D:\Customs\Git\Notepad\Notepad\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+D:\Customs\Git\Notepad\Notepad\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+D:\Customs\Git\Notepad\Notepad\bin\Debug\Newtonsoft.Json.xml
+D:\Customs\Git\Notepad\Notepad\bin\Debug\PostSharp.xml
+D:\Customs\Git\Notepad\Notepad\bin\Debug\PostSharp.Patterns.Aggregation.xml
+D:\Customs\Git\Notepad\Notepad\bin\Debug\PostSharp.Patterns.Common.xml
+D:\Customs\Git\Notepad\Notepad\bin\Debug\PostSharp.Patterns.Model.xml
+D:\Customs\Git\Notepad\Notepad\bin\Debug\RestSharp.xml
+D:\Customs\Git\Notepad\Notepad\bin\Debug\System.Data.SQLite.xml
+D:\Customs\Git\Notepad\Notepad\bin\Debug\System.Net.Http.Formatting.xml
+D:\Customs\Git\Notepad\Notepad\obj\Debug\Notepad.csprojResolveAssemblyReference.cache
+D:\Customs\Git\Notepad\Notepad\obj\Debug\MainWindow.g.cs
+D:\Customs\Git\Notepad\Notepad\obj\Debug\App.g.cs
+D:\Customs\Git\Notepad\Notepad\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Customs\Git\Notepad\Notepad\obj\Debug\Notepad_MarkupCompile.cache
+D:\Customs\Git\Notepad\Notepad\obj\Debug\Notepad_MarkupCompile.lref
+D:\Customs\Git\Notepad\Notepad\obj\Debug\App.baml
+D:\Customs\Git\Notepad\Notepad\obj\Debug\MainWindow.baml
+D:\Customs\Git\Notepad\Notepad\obj\Debug\Notepad.g.resources
+D:\Customs\Git\Notepad\Notepad\obj\Debug\Notepad.Properties.Resources.resources
+D:\Customs\Git\Notepad\Notepad\obj\Debug\Notepad.csproj.GenerateResource.Cache
+D:\Customs\Git\Notepad\Notepad\obj\Debug\PostSharp\touch
+D:\Customs\Git\Notepad\Notepad\obj\Debug\PostSharp\dependencies.txt
+D:\Customs\Git\Notepad\Notepad\obj\Debug\PostSharp\postsharp.app.config
